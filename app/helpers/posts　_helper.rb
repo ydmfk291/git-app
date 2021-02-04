@@ -1,0 +1,2 @@
+module Posts　Helper
+end
